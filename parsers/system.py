@@ -1,0 +1,1 @@
+# Responsible for parsing OS info, protections, and CVE suggestions from the raw linpeas output.

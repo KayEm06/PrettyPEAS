@@ -1,0 +1,1 @@
+# Responsible for parsing privilege escalation opportunities from the raw linpeas output.

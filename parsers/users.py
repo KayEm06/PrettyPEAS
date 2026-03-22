@@ -1,0 +1,1 @@
+# Responsible for parsing user information and credentials from the raw linpeas output.

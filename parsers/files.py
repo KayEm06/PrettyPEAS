@@ -1,0 +1,1 @@
+# Responsible for parsing file permissions and software from the raw linpeas output.
