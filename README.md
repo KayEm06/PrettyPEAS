@@ -8,7 +8,7 @@ PrettyPEAS has been written with sensitive regex rules to minimise output with f
 ## Features (WIP)
 
 - Import any LinPEAS report through the CLI.
-- HTML reports are strucutred on a hierarchy displaying Crtitical, High, Medium, Low, Info, and Default-severity findings respectively.
+- HTML reports are structured on a hierarchy displaying Critical, High, Medium, Low, Info, and Default-severity findings respectively.
 - Findings are assigned corresponding colour-coded markers based on severity classification.
 - Option to hide Low, Info, and Default findings to focus on medium and high-severity findings.
 - Collapse and expand sections to follow a systematic approach for privilege escalation.
